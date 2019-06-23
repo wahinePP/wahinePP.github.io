@@ -20,8 +20,8 @@ h6 {
 
 header.masthead {
   position: relative;
-  background-color: #343a40;
-  /*background: url('group.JPG') no-repeat center center;*/
+  background-color: /*#343a40*/#6fbca8;
+  /*background: url('images/WPPFlier') no-repeat center center;*/
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
@@ -57,6 +57,7 @@ header.masthead h1 {
 
 .showcase .showcase-img {
   min-height: 30rem;
+
   background-size: cover;
 }
 
@@ -125,6 +126,7 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
     text-align: center
+         background-color:#6fbca8; 
 }
 
 .button1 {
